@@ -1,1 +1,1 @@
-This file contains a mini OS. Its in beta and it doesnt do much. username is Hanz and password is 1234
+This file contains a mini OS. Its in beta and it doesnt do much. You can do little stuff like use a calculator or flip a coin even guesing a number as well with some few animations. Username is guest and Pasword is guest
